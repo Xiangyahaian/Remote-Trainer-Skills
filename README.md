@@ -1,4 +1,3 @@
-# Remote-Trainer-Skills
 # Remote Training Skill
 
 **Universal ML Training Controller** - Zero code changes required. Works with any Python training script.
